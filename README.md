@@ -25,7 +25,7 @@ Este é um backend GraphQL construído com NestJS para gerenciar observatórios 
 
 1. Clone o repositório:
 ```bash
-git clone [url-do-repositorio]
+git clone https://github.com/GalaxiesGG/backend-security-test.git
 ```
 
 2. Instale as dependências:
