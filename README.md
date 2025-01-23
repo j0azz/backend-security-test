@@ -15,6 +15,18 @@ Este é um backend GraphQL construído com NestJS para gerenciar observatórios 
    - Potencial impacto
 3. Propor e implementar soluções para cada vulnerabilidade identificada
 
+## Como Participar do Desafio
+
+1. Clique no botão "Use this template" no topo do repositório
+2. Selecione "Create a new repository"
+3. Mantenha seu repositório privado
+4. Faça suas alterações identificando e corrigindo as vulnerabilidades
+5. Quando finalizar, adicione `@RTS-Galaxies` como colaborador do seu repositório
+6. Envie um email para o responsável da sua seleção com:
+   - Link do seu repositório
+   - Seu nome completo
+   - Breve descrição das vulnerabilidades encontradas
+
 ## Requisitos
 
 - Node.js >= 18
