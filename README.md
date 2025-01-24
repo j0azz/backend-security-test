@@ -6,7 +6,7 @@ Este é um backend GraphQL construído com NestJS para gerenciar observatórios 
 
 ## 🎯 Desafio de Segurança
 
-**IMPORTANTE**: Este projeto contém vulnerabilidades de segurança intencionais como parte de um desafio técnico. Seu objetivo é:
+Seu objetivo é:
 
 1. Identificar as vulnerabilidades existentes no código
 2. Documentar cada vulnerabilidade encontrada, incluindo:
